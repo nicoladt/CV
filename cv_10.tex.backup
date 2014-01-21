@@ -21,6 +21,8 @@
 
 \documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
 \usepackage{multicol}
+
+ 
 \begin{document}
 
 \header{nicola }{du toit}{user experience designer} % Your name and current job title/field
@@ -39,15 +41,14 @@ South Africa
 021 448 2040
 ~
 \href{mailto:nicoladutoit@gmail.com}{nicoladutoit@gmail.com}
-\href{http://www.nicoladutoit.com}{nicoladutoit.com}
-%\href{http://za.linkedin.com/in/nicoladutoit/}{LinkedIn}
+\href{http://www.nicoladutoit.com}{www.nicoladutoit.com}
+\href{https://twitter.com/sophdex}{twitter.com/sophdex}
 \section{languages}
-english
+english 
 afrikaans
-french 
 \section{programming}
-CSS3 \& HTML5
-XML \& CNXML+
+HTML5 \& CSS3
+XML, CNXML+
 \end{aside}
 
 %----------------------------------------------------------------------------------------
@@ -60,33 +61,33 @@ XML \& CNXML+
 %------------------------------------------------
 \entry
 {2011 -- 2014}
-{M. Phil. {\normalfont in Information Technology}}
+{\textbf M. Phil. in Information Technology}
 {University of Cape Town}
 {\emph{Dissertation specialising in human-computer interaction}}
 %------------------------------------------------
 \entry
 {2008 -- 2010}
-{1st year Bachelor {\normalfont of Science}}
+{\textbf 1st year Bachelor of Science}
 {University of South Africa}
 {\emph{Computer Science, Mathematics, Physics, Astronomy}}
 %------------------------------------------------
 \entry
 {2004 -- 2007}
-{Bachelor {\normalfont of Music}}
+{\textbf Bachelor of Music}
 {University of Cape Town}
 {\emph{with distinction in Chamber Music}}
 %------------------------------------------------
 \entry
 {2002 -- 2003}
-{1st and 2nd year Bachelor {\normalfont of Arts}}
+{\textbf 1st and 2nd year Bachelor of Arts}
 {University of the Witwatersrand}
 {\emph{Psychology, Law, Economics and International Relations}}
 %------------------------------------------------
 \entry
 {2001}
-{I.E.B. Matric Certificate {\normalfont with six distinctions}}
+{\textbf I.E.B. Matric Certificate }
 {Redhill High School}
-{\emph{English, Afrikaans, Maths, History, French, Music}}
+{\emph{With distinctions for English, Afrikaans, Maths, History, French, Music}}
 
 %------------------------------------------------
 \end{entrylist}
@@ -101,7 +102,7 @@ XML \& CNXML+
 %------------------------------------------------
 \entry
 {2011 --}
-{\href{http://www.siyavula.com}{Siyavula Education}}
+{\href{http://www.siyavula.com}{\underline{Siyavula Education}}}
 {Cape Town}
 {\emph{User experience (UX) designer, webmaster, quality assurance (QA) tester, copywriter, Mathematical Literacy content coordinator \& author}}
 %------------------------------------------------
@@ -126,7 +127,7 @@ Part-time teaching of Grades R - 12}
 %------------------------------------------------
 \entry
 {2008 -- 2009}
-{\href{http://www.classical.com}{classical.com}}
+{\href{http://www.classical.com}{\underline{classical.com}}}
 {London/Cape Town}
 {\emph{Web content editor \& graphic designer}}
 %------------------------------------------------
@@ -144,19 +145,19 @@ Part-time teaching of Grades R - 12}
 \entry
 {2004 -- 2006}
 {University of Cape Town Dean's Merit List}
-{}
+{Cape Town}
 {}
 %------------------------------------------------
 \entry
 {2002 -- 2003}
 {University of the Witwatersrand Dean's Merit List}
-{}
+{Johannesburg}
 {}
 %------------------------------------------------
 \entry
 {2002}
 {University of the Witwatersrand Council Entrance Scholarship}
-{}
+{johannesburg}
 {}
 %------------------------------------------------
 \end{entrylist}
@@ -172,20 +173,23 @@ Part-time teaching of Grades R - 12}
 \entry
 {2009}
 {International Computer Driving License}
-{Microsoft Windows, Microsoft Office, Internet}
-{}
+{ICDL via UNISA}
+{\emph{Microsoft Windows, Microsoft Office, Internet}}
+
 %------------------------------------------------
 \entry
 {2008}
 {Licentiate of the Associated Board of the Royal Schools of Music}
-{Performance, cello}
-{}
+{ABRSM}
+{\emph{Performance, cello}}
+
 %------------------------------------------------
 \entry
 {2003}
 {Diploma of the Associated Board of the Royal Schools of Music}
-{Performance, cello}
-{}
+{ABRSM}
+{\emph{Performance, cello}}
+
 %------------------------------------------------
 \end{entrylist}
 
@@ -196,7 +200,7 @@ Part-time teaching of Grades R - 12}
 \section{skills}
 
 \begin{itemize}
-\item User experience and interface designen
+\item User experience and interface design
 \item Quality assurance testing
 \item English and mathematics authoring, editing, proof-reading and copywriting
 \item Project management and organisation
@@ -219,35 +223,44 @@ Part-time teaching of Grades R - 12}
  \item GitHub
  \item LaTeX
  \item GVim
+ \item Jekyll
   \item Adobe Photoshop
  \item Balsamiq
  \item Inkscape
- \item Google Analytics
  \item GIMP
  \item PSTricks
 \end{itemize}
 \end{multicols}
 
 \textbf{Markup and programming languages}
-\begin{multicols}{2}
 \begin{itemize}
  \item HTML5
  \item CSS3
  \item XML
- \item CNXML
+ \item CNXML+
  \item MathML
  \end{itemize}
- \end{multicols}
 Working knowledge of Javascript, JQuery, Python, C++, Java
 
 \textbf{Other}
 \begin{itemize}
+ \item Knowledge of and experience with Google Analytics.
  \item Knowledge of and experience with social media and marketing tools including Facebook, Twitter, Wordpress, Tumblr.
  \item Fluency in English and conversational Afrikaans, working knowledge of French.
  \item Driver's license (code B) and own car.
 \end{itemize}
 
+%----------------------------------------------------------------------------------------
+%	PORTFOLIO SECTION
+%----------------------------------------------------------------------------------------
 
+\section{portfolio}
+\begin{itemize}
+ \item \href{http://www.nicoladutoit.com/ux-portfolio}{\underline{nicoladutoit.com}}
+ \item \href{http://www.siyavula.com}{\underline{Siyavula Education}}
+ \item \href{http://www.everythingmaths.co.za}{\underline{Everything Maths}}
+ \item \href{http://thunderboltkids.co.za}{\underline{The Thunderbolt Kids}}
+\end{itemize}
 
 
 %----------------------------------------------------------------------------------------
@@ -256,9 +269,9 @@ Working knowledge of Javascript, JQuery, Python, C++, Java
 
 \section{interests}
 
-\textbf{professional:} human-computer interaction, usability, cognitive psychology, visual design
+\textbf{Professional:} human-computer interaction, usability, cognitive psychology, visual design
 
-\textbf{personal:} music, science, photography, dragon boating, trail running, flyball (dog agility)
+\textbf{Personal:} music, science, photography, dragon boating, trail running, flyball (dog agility)
 
 
 \end{document}

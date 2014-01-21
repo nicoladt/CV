@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  21 JAN 2014 16:25
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  21 JAN 2014 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1085,6 +1085,7 @@ File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 (/home/nicola/texlive/2012/texmf-dist/tex/xelatex/xetexconfig/hyperref.cfg
 File: hyperref.cfg 2008/07/11 v1.2 hyperref configuration for XeLaTeX
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
 Package hyperref Info: Hyper figures OFF on input line 4062.
 Package hyperref Info: Link nesting OFF on input line 4067.
 Package hyperref Info: Hyper index ON on input line 4070.
@@ -1101,7 +1102,7 @@ Package hyperref Info: Hyper figures OFF on input line 5773.
 Package hyperref Info: Link nesting OFF on input line 5778.
 Package hyperref Info: Hyper index ON on input line 5781.
 Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring ON on input line 5791.
 Package hyperref Info: Link coloring with OCG OFF on input line 5798.
 Package hyperref Info: PDF/A mode OFF on input line 5803.
 LaTeX Info: Redefining \ref on input line 5843.
@@ -1200,65 +1201,65 @@ File: english.lbx 2011/11/13 v1.7 biblatex localization
 (./cv_10.aux)
 \openout1 = `cv_10.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 24.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 26.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 26.
  (/home/nicola/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 \g_fontspec_family_lmmath-regular.otf_int=\count402
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 24.
+(Font)              `operators' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/lmmath-regular.otf(0)/m/n on input 
-line 24.
+line 26.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 24.
+(Font)              `operators' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/lmmath-regular.otf(0)/bx/n on inpu
-t line 24.
+t line 26.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 24.
+(Font)              `symbols' in the math version `normal' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/lmmath-regular.otf(1)/m/n on input
- line 24.
+ line 26.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 24.
+(Font)              `symbols' in the math version `bold' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/lmmath-regular.otf(1)/bx/n on inpu
-t line 24.
+t line 26.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 2
-4.
+6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/lmmath-regular.otf(2)/m/n on input
- line 24.
+ line 26.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 24.
+(Font)              `largesymbols' in the math version `bold' on input line 26.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/lmmath-regular.otf(2)/bx/n on inpu
-t line 24.
+t line 26.
 
 ABD: EveryShipout initializing macros
 Package biblatex Info: XeTeX detected.
@@ -1275,8 +1276,8 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv_10.bbl' not found.
 No file cv_10.bbl.
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1312,7 +1313,7 @@ Package biblatex Info: Reference segment=0 on input line 24.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box73
-Package hyperref Info: Link coloring OFF on input line 24.
+Package hyperref Info: Link coloring ON on input line 26.
 (/home/nicola/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -1321,47 +1322,47 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count403
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 (./cv_10.out) (./cv_10.out)
 \@outlinefile=\write5
 \openout5 = `cv_10.out'.
 
 
-Overfull \hbox (6.41997pt too wide) in paragraph at lines 41--41
- [][]\EU1/UbuntuLight(1)/m/n/10 nicoladutoit@gmail.com[]
+Overfull \hbox (0.7295pt too wide) in paragraph at lines 43--43
+ [][][]\EU1/UbuntuLight(1)/m/n/10 nicoladutoit@gmail.com[][]
  []
 
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 59.
+(Font)              scaled to size 10.00015pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 59.
+(Font)              scaled to size 7.00006pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 59.
+(Font)              scaled to size 5.00008pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 59.
+(Font)              scaled to size 9.99985pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 59.
+(Font)              scaled to size 6.99986pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 59.
+(Font)              scaled to size 4.99992pt on input line 60.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--93
+Underfull \hbox (badness 10000) in paragraph at lines 60--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--135
+Underfull \hbox (badness 10000) in paragraph at lines 101--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--163
+Underfull \hbox (badness 10000) in paragraph at lines 143--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--191
+Underfull \hbox (badness 10000) in paragraph at lines 171--195
 
  []
 
@@ -1371,13 +1372,27 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 [1
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 263.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 263.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
@@ -1385,10 +1400,10 @@ Package logreq Info: Writing requests to 'cv_10.run.xml'.
 Here is how much of TeX's memory you used:
  36529 strings out of 494004
  696482 string characters out of 3150146
- 827820 words of memory out of 3000000
+ 827848 words of memory out of 3000000
  39305 multiletter control sequences out of 15000+200000
  4966 words of font info for 58 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 74i,9n,68p,887b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 74i,11n,68p,887b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on cv_10.pdf (2 pages).
+Output written on cv_10.pdf (3 pages).

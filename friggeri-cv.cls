@@ -103,7 +103,9 @@
         orange\or%
         green\or%
         purple\or%
-        brown\else%
+        brown\or%
+        blue\or%
+        red\else%
         headercolor\fi%
     } #1#2#3%
   }%
@@ -160,7 +162,7 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1.5, 4.33)
+  \begin{textblock}{3.8}(1.5, 4.33)
   \begin{flushright}
   \obeycr
 }{%
@@ -306,4 +308,4 @@
 %%%%%%%%%%%%%%%%
 
 \RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
-\RequirePackage{hyperref}
+\RequirePackage[colorlinks]{hyperref}
