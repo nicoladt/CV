@@ -1,0 +1,264 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Friggeri Resume/CV
+% XeLaTeX Template
+% Version 1.0 (5/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Adrien Friggeri (adrien@friggeri.net)
+% https://github.com/afriggeri/CV
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX and the bibliography, if used,
+% needs to be compiled with biber rather than bibtex.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+\usepackage{multicol}
+\begin{document}
+
+\header{nicola }{du toit}{user experience designer} % Your name and current job title/field
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{aside} % In the aside, each new line forces a line break
+\section{contact}
+18 Gordon Rd
+Observatory, Cape Town
+South Africa
+~
+083 256 7666
+021 448 2040
+~
+\href{mailto:nicoladutoit@gmail.com}{nicoladutoit@gmail.com}
+\href{http://www.nicoladutoit.com}{nicoladutoit.com}
+%\href{http://za.linkedin.com/in/nicoladutoit/}{LinkedIn}
+\section{languages}
+english
+afrikaans
+french 
+\section{programming}
+CSS3 \& HTML5
+XML \& CNXML+
+\end{aside}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{education}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2011 -- 2014}
+{M. Phil. {\normalfont in Information Technology}}
+{University of Cape Town}
+{\emph{Dissertation specialising in human-computer interaction}}
+%------------------------------------------------
+\entry
+{2008 -- 2010}
+{1st year Bachelor {\normalfont of Science}}
+{University of South Africa}
+{\emph{Computer Science, Mathematics, Physics, Astronomy}}
+%------------------------------------------------
+\entry
+{2004 -- 2007}
+{Bachelor {\normalfont of Music}}
+{University of Cape Town}
+{\emph{with distinction in Chamber Music}}
+%------------------------------------------------
+\entry
+{2002 -- 2003}
+{1st and 2nd year Bachelor {\normalfont of Arts}}
+{University of the Witwatersrand}
+{\emph{Psychology, Law, Economics and International Relations}}
+%------------------------------------------------
+\entry
+{2001}
+{I.E.B. Matric Certificate {\normalfont with six distinctions}}
+{Redhill High School}
+{\emph{English, Afrikaans, Maths, History, French, Music}}
+
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{experience}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2011 --}
+{\href{http://www.siyavula.com}{Siyavula Education}}
+{Cape Town}
+{\emph{User experience (UX) designer, webmaster, quality assurance (QA) tester, copywriter, Mathematical Literacy content coordinator \& author}}
+%------------------------------------------------
+\entry
+{2008 -- 2011}
+{Self-employed}
+{Cape Town}
+{\emph{Freelance administrator, virtual assistant, copywriter, web \& graphic designer and musician}}
+%------------------------------------------------
+\entry
+{2010 -- 2011}
+{Ifo Music}
+{Cape Town}
+{\emph{Administrator \& project manager}}
+%------------------------------------------------
+\entry
+{2008 -- 2010}
+{St Cyprian's School}
+{Cape Town}
+{\emph{Cello teacher} \\
+Part-time teaching of Grades R - 12}
+%------------------------------------------------
+\entry
+{2008 -- 2009}
+{\href{http://www.classical.com}{classical.com}}
+{London/Cape Town}
+{\emph{Web content editor \& graphic designer}}
+%------------------------------------------------
+
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{awards}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2004 -- 2006}
+{University of Cape Town Dean's Merit List}
+{}
+{}
+%------------------------------------------------
+\entry
+{2002 -- 2003}
+{University of the Witwatersrand Dean's Merit List}
+{}
+{}
+%------------------------------------------------
+\entry
+{2002}
+{University of the Witwatersrand Council Entrance Scholarship}
+{}
+{}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	PROFESSIONAL QUALIFICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{professional qualifications}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2009}
+{International Computer Driving License}
+{Microsoft Windows, Microsoft Office, Internet}
+{}
+%------------------------------------------------
+\entry
+{2008}
+{Licentiate of the Associated Board of the Royal Schools of Music}
+{Performance, cello}
+{}
+%------------------------------------------------
+\entry
+{2003}
+{Diploma of the Associated Board of the Royal Schools of Music}
+{Performance, cello}
+{}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{skills}
+
+\begin{itemize}
+\item User experience and interface designen
+\item Quality assurance testing
+\item English and mathematics authoring, editing, proof-reading and copywriting
+\item Project management and organisation
+\item Graphic and website design, webmastering, desktop publishing, research
+\end{itemize}
+
+\textbf{Operating systems}
+\begin{multicols}{2}
+\begin{itemize}
+ \item Microsoft Windows
+ \item Ubuntu
+ \item iOS7
+ \item Android
+\end{itemize}
+\end{multicols}
+
+\textbf{Software}
+\begin{multicols}{2}
+\begin{itemize}
+ \item GitHub
+ \item LaTeX
+ \item GVim
+  \item Adobe Photoshop
+ \item Balsamiq
+ \item Inkscape
+ \item Google Analytics
+ \item GIMP
+ \item PSTricks
+\end{itemize}
+\end{multicols}
+
+\textbf{Markup and programming languages}
+\begin{multicols}{2}
+\begin{itemize}
+ \item HTML5
+ \item CSS3
+ \item XML
+ \item CNXML
+ \item MathML
+ \end{itemize}
+ \end{multicols}
+Working knowledge of Javascript, JQuery, Python, C++, Java
+
+\textbf{Other}
+\begin{itemize}
+ \item Knowledge of and experience with social media and marketing tools including Facebook, Twitter, Wordpress, Tumblr.
+ \item Fluency in English and conversational Afrikaans, working knowledge of French.
+ \item Driver's license (code B) and own car.
+\end{itemize}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{interests}
+
+\textbf{professional:} human-computer interaction, usability, cognitive psychology, visual design
+
+\textbf{personal:} music, science, photography, dragon boating, trail running, flyball (dog agility)
+
+
+\end{document}
