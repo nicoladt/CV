@@ -149,6 +149,25 @@
     #4\vspace{\parsep}%
   }\\}
 
+  %%%%%%%%%%%%%%%%%%%%
+% Portfolio environment %
+%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\tabcolsep}{0pt}
+\newenvironment{sitelist}{%
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
+}{%
+  \end{tabular*}
+}
+\renewcommand{\bfseries}{\headingfont\color{headercolor}}
+\newcommand{\site}[4]{%
+  #1&\parbox[t]{13.4cm}{%
+    \textbf{#2}%
+    \hfill%
+    {\footnotesize\addfontfeature{Color=lightgray} #3}\\%
+    #4\vspace{\parsep}%
+  }\\}
+
 
 %%%%%%%%%%%%%%
 % Side block %
