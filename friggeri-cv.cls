@@ -3,10 +3,10 @@
 
 \DeclareOption{print}{\def\@cv@print{}}
 \DeclareOption*{%
-  \PassOptionsToClass{\CurrentOption}{article}%
+  \PassOptionsToClass{\CurrentOption}[a4paper]{article}%
 }
 \ProcessOptions\relax
-\LoadClass{article}
+\LoadClass[a4paper]{article}
 
 
 %%%%%%%%%%
@@ -105,7 +105,8 @@
         purple\or%
         brown\or%
         blue\or%
-        red\else%
+        red\or%
+        orange\else%
         headercolor\fi%
     } #1#2#3%
   }%
@@ -142,7 +143,7 @@
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
-  #1&\parbox[t]{11.8cm}{%
+  #1&\parbox[t]{11cm}{%
     \textbf{#2}%
     \hfill%
     {\footnotesize\addfontfeature{Color=lightgray} #3}\\%
@@ -161,7 +162,7 @@
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\site}[4]{%
-  #1&\parbox[t]{13.4cm}{%
+  #1&\parbox[t]{13cm}{%
     \textbf{#2}%
     \hfill%
     {\footnotesize\addfontfeature{Color=lightgray} #3}\\%
