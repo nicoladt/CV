@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  30 JAN 2014 11:27
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  31 JAN 2014 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1386,12 +1386,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 269--269
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 291--291
-\EU1/UbuntuLight(1)/m/it/10 UX (navigation, layout, sketches, wireframes, mocku
-ps), some graphic design,
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 263--295
 
  []
@@ -1402,21 +1396,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 300--317
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--341
+Underfull \hbox (badness 10000) in paragraph at lines 334--345
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--341
+Underfull \hbox (badness 10000) in paragraph at lines 334--345
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 343.
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--345
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 343.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 343.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 343.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 347.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
