@@ -21,11 +21,12 @@
 
 \documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
 \usepackage{multicol}
+\usepackage[none]{hyphenat}
 
  
 \begin{document}
 
-\header{nicola }{du toit}{user experience designer} % Your name and current job title/field
+\header{nicola }{du toit}{user experience designer | project manager} % Your name and current job title/field
 
 %----------------------------------------------------------------------------------------
 %	SIDEBAR SECTION
@@ -43,10 +44,11 @@ South Africa
 \href{mailto:nicoladutoit@gmail.com}{nicoladutoit@gmail.com}
 \href{http://www.nicoladutoit.com}{www.nicoladutoit.com}
 \href{https://twitter.com/sophdex}{twitter.com/sophdex}
+\hspace{-20pt}\href{http://za.linkedin.com/in/nicoladutoit/}{linkedin.com/in/nicoladutoit}
 \section{languages}
 english 
 afrikaans
-\section{programming}
+\section{markup}
 HTML5 \& CSS3
 XML, CNXML+
 \end{aside}
@@ -63,31 +65,31 @@ XML, CNXML+
 {2011 -- 2014}
 {\textbf M. Phil. in Information Technology}
 {University of Cape Town}
-{\emph{Dissertation specialising in human-computer interaction}}
+{\emph{Dissertation specialising in human-computer interaction \& interface design.}}
 %------------------------------------------------
 \entry
 {2008 -- 2010}
 {\textbf 1st year Bachelor of Science}
 {University of South Africa}
-{\emph{Computer Science, Mathematics, Physics, Astronomy}}
+{\emph{Computer Science, Mathematics, Physics, Astronomy.}}
 %------------------------------------------------
 \entry
 {2004 -- 2007}
 {\textbf Bachelor of Music}
 {University of Cape Town}
-{\emph{with distinction in Chamber Music}}
+{\emph{with distinction in Chamber Music.}}
 %------------------------------------------------
 \entry
 {2002 -- 2003}
 {\textbf 1st and 2nd year Bachelor of Arts}
 {University of the Witwatersrand}
-{\emph{Psychology, Law, Economics and International Relations}}
+{\emph{Psychology, Law, Economics and International Relations.}}
 %------------------------------------------------
 \entry
 {2001}
 {\textbf I.E.B. Matric Certificate }
 {Redhill High School}
-{\emph{With distinctions for English, Afrikaans, Maths, History, French, Music}}
+{\emph{With distinctions for English, Afrikaans, Maths, History, French, Music.}}
 
 %------------------------------------------------
 \end{entrylist}
@@ -104,32 +106,52 @@ XML, CNXML+
 {2011 --}
 {\href{http://www.siyavula.com}{\underline{Siyavula Education}}}
 {Cape Town}
-{\emph{User experience (UX) designer, webmaster, quality assurance (QA) tester, copywriter, Mathematical Literacy content coordinator \& author}}
+{\emph{User experience \& interface designer, project manager, webmaster, quality assurance (QA) tester, copywriter, Mathematical Literacy content coordinator \& author.}}
 %------------------------------------------------
+
 \entry
-{2008 -- 2011}
-{Self-employed}
+{2010 -- 2011}
+{Barrington Studios}
 {Cape Town}
-{\emph{Freelance administrator, virtual assistant, copywriter, web \& graphic designer and musician}}
+{\emph{Co-founder \& co-manager of music studio and live performance venue.}}
 %------------------------------------------------
+
+
+
 \entry
 {2010 -- 2011}
 {Ifo Music}
 {Cape Town}
-{\emph{Administrator \& project manager}}
+{\emph{Administrator \& project manager.}}
 %------------------------------------------------
+
+\entry
+{2009 -- 2011}
+{Tiny Sunshine Music}
+{Cape Town}
+{\emph{Co-founder. Artists \& events manager. Virtual assistant \& project administrator.}}
+%------------------------------------------------
+
+
 \entry
 {2008 -- 2010}
 {St Cyprian's School}
 {Cape Town}
-{\emph{Cello teacher} \\
-Part-time teaching of Grades R - 12}
+{\emph{Part-time cello teacher, Grades R-12.}}
 %------------------------------------------------
 \entry
 {2008 -- 2009}
 {\href{http://www.classical.com}{\underline{classical.com}}}
 {London/Cape Town}
-{\emph{Web content editor \& graphic designer}}
+{\emph{Web content editor \& graphic designer.}}
+%------------------------------------------------
+
+
+\entry
+{2008 -- 2011}
+{Self-employed}
+{Cape Town}
+{\emph{Freelance project administrator, web \& graphic designer, virtual assistant, copywriter and musician.}}
 %------------------------------------------------
 
 \end{entrylist}
@@ -161,7 +183,7 @@ Part-time teaching of Grades R - 12}
 {}
 %------------------------------------------------
 \end{entrylist}
-
+\pagebreak
 %----------------------------------------------------------------------------------------
 %	PROFESSIONAL QUALIFICATIONS SECTION
 %----------------------------------------------------------------------------------------
@@ -200,11 +222,12 @@ Part-time teaching of Grades R - 12}
 \section{skills}
 
 \begin{itemize}
-\item User experience and interface design
-\item Quality assurance testing
-\item English and mathematics authoring, editing, proof-reading and copywriting
-\item Project management and organisation
-\item Graphic and website design, webmastering, desktop publishing, research
+\item User experience and interface design, including responsive/mobile design.
+\item Project management and organisation.
+\item Quality assurance testing.
+\item Graphic and website design, webmastering, desktop publishing, research.
+\item English and Mathematics authoring, editing, proof-reading and copywriting.
+
 \end{itemize}
 
 \textbf{Operating systems}
@@ -229,6 +252,7 @@ Part-time teaching of Grades R - 12}
  \item Inkscape
  \item GIMP
  \item PSTricks
+ \item TikZ
 \end{itemize}
 \end{multicols}
 
@@ -240,28 +264,78 @@ Part-time teaching of Grades R - 12}
  \item CNXML+
  \item MathML
  \end{itemize}
-Working knowledge of Javascript, JQuery, Python, C++, Java
+Working knowledge of Javascript, JQuery, Python, C++, Java.
 
 \textbf{Other}
 \begin{itemize}
- \item Knowledge of and experience with Google Analytics.
- \item Knowledge of and experience with social media and marketing tools including Facebook, Twitter, Wordpress, Tumblr.
+\item Knowledge of and experience with Bootstrap, Wordpress, Plone, EPUB3.0 and Google Analytics.
+ \item Familiarity with social media and digital marketing tools including Facebook, Twitter, LinkedIn and Tumblr.
  \item Fluency in English and conversational Afrikaans, working knowledge of French.
  \item Driver's license (code B) and own car.
 \end{itemize}
 
+\pagebreak
 %----------------------------------------------------------------------------------------
 %	PORTFOLIO SECTION
 %----------------------------------------------------------------------------------------
 
 \section{portfolio}
-\begin{itemize}
- \item \href{http://www.nicoladutoit.com/ux-portfolio}{\underline{nicoladutoit.com}}
- \item \href{http://www.siyavula.com}{\underline{Siyavula Education}}
- \item \href{http://www.everythingmaths.co.za}{\underline{Everything Maths}}
- \item \href{http://thunderboltkids.co.za}{\underline{The Thunderbolt Kids}}
-\end{itemize}
+\begin{sitelist}
 
+%------------------------------------------------
+\site
+{}
+{Siyavula Education: \href{http://www.siyavula.com}{\underline{www.siyavula.com}}}
+{}
+{\emph{Project management, project specification, UX, collaborative graphic design, copywriting, testing.}}
+
+%------------------------------------------------
+
+\site
+{}
+{The Thunderbolt Kids: \href{http://thunderboltkids.co.za}{\underline{thunderboltkids.co.za}}}
+{}
+{\emph{Project management, project specification, research, site structure, UX, testing.}}
+
+%------------------------------------------------
+\site
+{}
+{Everything Maths: \href{http://www.everythingmaths.co.za}{\underline{everythingmaths.co.za}}}
+{}
+{\emph{UX, project specification, graphic design, copywriting, testing.}}
+
+%------------------------------------------------
+
+
+\site
+{}
+{Nicola du Toit: \href{http://www.nicoladutoit.com/ux-portfolio}{\underline{nicoladutoit.com}}}
+{}
+{\emph{Jekyll and Lightbox2 implementation, customised CSS (including Bootstrap), copywriting, proofreading, testing.}}
+%------------------------------------------------
+\end{sitelist}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+\section{publications}
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2013}
+{Everything Maths Literacy Grade 10}
+{Siyavula Education}
+{\emph{Project management, content coordination, authoring, editing, graphic design, proofreading.}}
+%------------------------------------------------
+
+\entry
+{2012}
+{Everything Maths Grade 10}
+{Siyavula Education}
+{\emph{Technical editing, authoring, graphic design, proofreading.}}
+
+%------------------------------------------------
+\end{entrylist}
 
 %----------------------------------------------------------------------------------------
 %	INTERESTS SECTION
@@ -269,9 +343,27 @@ Working knowledge of Javascript, JQuery, Python, C++, Java
 
 \section{interests}
 
-\textbf{Professional:} human-computer interaction, usability, cognitive psychology, visual design
+\textbf{Professional:} human-computer interaction, usability, cognitive psychology, visual design.
 
-\textbf{Personal:} music, science, photography, dragon boating, trail running, flyball (dog agility)
+\textbf{Personal:} music, science, photography, dragon boating, trail running, flyball (dog agility).
+
+%----------------------------------------------------------------------------------------
+%	REFERENCES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{references}
+
+Dr Mark Horner\\
+Siyavula Education\\
+mark@siyavula.com\\
+\\
+Dr Carl Scheffler\\
+Siyavula Education\\
+carl@siyavula.com\\
+\\
+Mrs Jill Eichler\\
+Associated Board of the Royal Schools of Music\\
+eichler@mweb.co.za\\
 
 
 \end{document}
