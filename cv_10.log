@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  14 MAY 2014 11:49
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.8.31)  23 JUN 2014 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1334,31 +1334,36 @@ LaTeX Info: Redefining \nameref on input line 27.
 \@outlinefile=\write5
 \openout5 = `cv_10.out'.
 
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 62.
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 62.
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 62.
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 62.
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 62.
-LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--96
+Overfull \hbox (11.28905pt too wide) in paragraph at lines 48--48
+[][][]\EU1/UbuntuLight(1)/m/n/10 linkedin.com/in/nicoladutoit[][]  
+ []
+
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 67.
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 7.00006pt on input line 67.
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 67.
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 67.
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 6.99986pt on input line 67.
+LaTeX Font Info:    Font shape `EU1/lmmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 67.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--101
 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 132--132
+Underfull \hbox (badness 2269) in paragraph at lines 137--137
 \EU1/UbuntuLight(1)/m/it/10 Co-founder. Artists & events manager. Virtual assis
 tant & project
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--158
+Underfull \hbox (badness 10000) in paragraph at lines 108--163
 
  []
 
@@ -1369,53 +1374,59 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 193--217
+Underfull \hbox (badness 10000) in paragraph at lines 198--222
 
  []
 
 
-Overfull \hbox (7.91533pt too wide) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+
+ []
+
+
+Overfull \hbox (7.91533pt too wide) in paragraph at lines 282--283
 []\EU1/UbuntuLight(1)/m/n/10 Familiarity with social media and digital marketin
 g tools including Facebook, Twitter,
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 314--314
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
 \EU1/UbuntuLight(1)/m/it/10 Jekyll and Lightbox2 implementation, customised CSS
  (including Bootstrap),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--317
+Underfull \hbox (badness 10000) in paragraph at lines 293--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--339
+Underfull \hbox (badness 2221) in paragraph at lines 343--343
+[][]\EU1/UbuntuCondensed(0)/m/n/10 Designing an interface to provide new functi
+onality for the post-processing of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--367
+Underfull \hbox (badness 10000) in paragraph at lines 380--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--367
+Underfull \hbox (badness 10000) in paragraph at lines 380--387
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--367
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 369.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 388.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 369.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 388.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 369.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 369.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 388.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 388.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
@@ -1423,7 +1434,7 @@ Package logreq Info: Writing requests to 'cv_10.run.xml'.
 Here is how much of TeX's memory you used:
  36566 strings out of 494004
  697020 string characters out of 3150146
- 828779 words of memory out of 3000000
+ 829775 words of memory out of 3000000
  39338 multiletter control sequences out of 15000+200000
  4966 words of font info for 58 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191

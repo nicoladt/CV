@@ -182,12 +182,12 @@
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{4}(1.5, 4.33)
-  \begin{flushright}
+  \begin{textblock}{4}(1, 4.33)
+  \begin{flushleft}
   \obeycr
 }{%
   \restorecr
-  \end{flushright}
+  \end{flushleft}
   \end{textblock}
   \let\section\oldsection
 }
