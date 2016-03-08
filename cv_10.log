@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.11.18)  21 NOV 2015 12:17
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.11.18)  8 MAR 2016 08:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1290,37 +1290,48 @@ LaTeX Info: Redefining \nameref on input line 27.
 \openout5 = `cv_10.out'.
 
 
-Overfull \hbox (11.28903pt too wide) in paragraph at lines 48--48
+Overfull \hbox (11.28903pt too wide) in paragraph at lines 47--47
 [][][]\EU1/UbuntuLight(1)/m/n/10 linkedin.com/in/nicoladutoit[][]  
  []
 
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 64.
+(Font)              scaled to size 10.00015pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 64.
+(Font)              scaled to size 7.00006pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 64.
+(Font)              scaled to size 5.00008pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 64.
+(Font)              scaled to size 9.99985pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 64.
+(Font)              scaled to size 6.99986pt on input line 63.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 64.
+(Font)              scaled to size 4.99992pt on input line 63.
 
-Underfull \hbox (badness 3861) in paragraph at lines 73--73
+Underfull \hbox (badness 3861) in paragraph at lines 72--72
 \EU1/UbuntuLight(1)/m/it/10 Programming (Java), Web Programming, Database Syste
 ms, Human
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--101
+Underfull \hbox (badness 10000) in paragraph at lines 63--100
 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 156--156
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\EU1/UbuntuLight(1)/m/it/10 (QA) tester, copywriter, Mathematical Literacy text
+book content
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 155--155
 \EU1/UbuntuLight(1)/m/it/10 Co-founder. Artists & events manager. Virtual assis
 tant & project
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--181
+
  []
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
@@ -1330,68 +1341,127 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 189--210
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 672.50832pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=672.50832pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-1.1381pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 217--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--334
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
 \EU1/UbuntuLight(1)/m/it/10 UX, comprehensive user-centred research, project sp
 ecification, graphic design,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--339
+Underfull \hbox (badness 10000) in paragraph at lines 195--235
 
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 355--355
-[][]\EU1/UbuntuCondensed(0)/m/n/10 Designing an interface to provide new functi
-onality for the post-processing of
+Overfull \hbox (6.98pt too wide) in paragraph at lines 245--246
+[]\EU1/UbuntuLight(1)/m/n/10 User-centred design techniques including stakehold
+er interviews, focus groups, contextual inquiries,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--375
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--404
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--336
+
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 355--355
+\EU1/UbuntuLight(1)/m/it/10 Invited to participate in a week-long sprint to dev
+elop a new WYSIWYG editor, with
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 362--362
+\EU1/UbuntuLight(1)/m/it/10 developers, the Hewlett Foundation and developers f
+rom international organizations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--393
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 430--439
+Underfull \hbox (badness 10000) in paragraph at lines 400--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--439
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
+ []
+
+
+Overfull \hbox (3.34396pt too wide) in paragraph at lines 444--445
+[][]\EU1/UbuntuCondensed(0)/m/n/10 Professional:[] \EU1/UbuntuLight(1)/m/n/10 h
+uman-computer interaction, cognitive psychology, accessibility, service design,
+ visual design. 
  []
 
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 450.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 450.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 474.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 474.
  (./cv_10.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 450.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 450.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 474.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 474.
 Package logreq Info: Writing requests to 'cv_10.run.xml'.
 \openout1 = `cv_10.run.xml'.
 
